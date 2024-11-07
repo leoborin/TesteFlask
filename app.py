@@ -8,7 +8,7 @@ app = Flask(__name__)
 # Rota principal
 @app.route('/')
 def home():
-    return "Eldin Gosta de Bacon."
+    return "Eldin Gosta de Bacon.2025"
 
 # Rota adicional
 @app.route('/sobre')
