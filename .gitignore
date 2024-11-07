@@ -1,0 +1,8 @@
+# Ignore environment folders
+venv/
+__pycache__/
+*.pyc
+
+# Ignore IDE config files
+.vscode/
+.idea/
