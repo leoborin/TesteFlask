@@ -1,0 +1,6 @@
+[build]
+pkgs = ["python310"]
+build_cmd = "pip install -r requirements.txt"
+
+[start]
+start_cmd = "python app.py"
